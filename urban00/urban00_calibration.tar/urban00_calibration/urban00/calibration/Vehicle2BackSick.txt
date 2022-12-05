@@ -1,0 +1,5 @@
+Back Sick (LMS511) extrinsic calibration parameter from vehicle
+RPY(roll/pitch/yaw, degree), R(rotation matrix), T(translation matrix)
+RPY: 44.7289 -179.085 89.4402
+R: -0.00976895 -0.71052 0.703609 -0.999825 -0.00429657 -0.0182204 0.0159691 -0.703663 -0.710354 
+T: -0.530841 -0.000436065 1.62607

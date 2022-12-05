@@ -1,0 +1,5 @@
+Encoder calibrated parameter
+Encoder resolution: 4096
+Encoder left wheel diameter: 0.623803
+Encoder right wheel diameter: 0.623095
+Encoder wheel base: 1.52683
