@@ -10,10 +10,14 @@ Part 3: Pose graph Optimization
 You can go to the EKF_exercise, graph_ex and ICP_ex directories and run the ipynb files in it to visualize our results. The EKF.py, graph.py and ICP.py contains all the implemented functions.
 Our experimental results have already been visualize. If you do not run our codes, you can still check our results.
 
-Requried Package
+Requried Package:
+
 numpy
+
 scipy
+
 matplotlib
+
 sklearn
 
 Dataset: Complex urban dataset, dlt.g2o, icp_data.npz, dataset_2d_landmarks.  The complex urban dataset is stored in the directory urban00
