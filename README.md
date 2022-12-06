@@ -20,6 +20,8 @@ matplotlib
 
 sklearn
 
+open3d
+
 Dataset: Complex urban dataset, dlt.g2o, icp_data.npz, dataset_2d_landmarks.  The complex urban dataset is stored in the directory urban00
 
 All datasets are already saved in this Github repository. You do not need to download them!
