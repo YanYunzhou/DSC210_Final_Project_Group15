@@ -26,6 +26,13 @@ Extended kalman filtering works better than naive estimation with odometry only 
 
 We can enhance the performance of extended kalman filtering by tuning parameters such as the covariance matrix
 
+From our experimental results, we find that ICP is a great tool to align points clouds. However, the performance of ICP suffer from outliers and poor initial point associations. By subsampling, threshold and motion prediction, we can use ICP to achieve better results and the algorithm can run in faster speed.
+
+The two pictures shown below are the alignment of point clouds without ICP and the alignment of point clouds with SOTA ICP
+
+![plot](Results/Align_withoutICP.png)
+![plot](Results/Align_WithICP.png)
+
 Pose graph optimization can help to reduce accumulation errors. Sparse NLA can exploit the sparsify of linear system and improve the efficiency of pose graph optimization algorithms. 
 
 ![plot](Results/pose_result.png)
